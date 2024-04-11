@@ -15,6 +15,14 @@ console.log("Ready to go! 🚀");
 //   case "Arya":
 //     house = "Stark";
 //     break;
+//   case "Cersei":
+//   case "Jaime":
+//   case "Tywin":
+//   case "Tyrion":
+//     house = "Lannister";
+//     break;
+//   default:
+//     house = "other";
 // }
 
 // console.log(`Your favorite character is from the house ${house}.`);
